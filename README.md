@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aishwarya M. 👋
 
-<!--
-**iamaishu1326-source/iamaishu1326-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate from Vijayagar College (2026)  
+💻 Aspiring Software Developer  
+🌱 Continuously learning and building projects
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Programming:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Framework:** Django
+- **Database:** SQL
+- **Technology:** OCR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### AI Resume Analyzer
+A web application designed to analyze resumes, compare skills with job descriptions, identify missing keywords, and suggest relevant job roles.
+
+**Technologies:** Python, Django, OCR, HTML, CSS, JavaScript
+
+## 🌐 Connect With Me
+- **Portfolio:** https://iamaishu1326-source.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/aishwarya-m-637507347/
+- **Email:** iamaishu1326@gmail.com
+
+## 🎯 Career Goal
+I'm looking for an entry-level Software Developer opportunity where I can apply my skills, learn from experienced developers, and contribute to meaningful projects.
+
+---
+⭐ Thanks for visiting my GitHub profile!
